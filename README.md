@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h1><b>Redux Toolkit Exercise</b></h1>
+  <h1><b>Shopping Cart with Redux</b></h1>
 
   <br/>
 </div>
