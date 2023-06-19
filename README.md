@@ -1,6 +1,3 @@
-Certainly! Here's the updated README.md file for the "redux-toolkit-exercise" project:
-
-```markdown
 <a name="readme-top"></a>
   
 <div align="center">
